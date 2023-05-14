@@ -8,7 +8,13 @@
 	<div>
 	<h3 align="center">Purpose of these Roadmap</h3>
 
-The purpose of these roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+Цель дорожной карты – дать представление о пути разработчика Unity и помочь вам, если вы не знаете, что изучать дальше, а не побудить вас выбирать то, что модно.
+
+
+Вы должны понимать, почему правильнее использовать тот или иной инструмент (технологию, часть языка).
+
+
+Запомните:  модный стек технологий никогда не означает, что он лучше всего годится для работы.
 		
 <h3 align="center">Note to Beginners</h3>
 These roadmap cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started.
@@ -21,10 +27,9 @@ These roadmap cover everything that is there to learn for the paths listed below
 
 ---
 
-### 🚦 Wrap Up
+### 🚦Улучшение
 </div>
-If you think any of the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
-Any questions you can send to my <b>Telegram channel <a href="https://t.me/+GRwMQo4dWPdmOTMy"> Shaggy Developer(Лохматый разработчик)</a></b>
+Если вы считаете, что roadmap можно улучшить, пожалуйста, откройте PR с любыми обновлениями и сообщите о любых проблемах. Кроме того, я буду продолжать улучшать её, так что вы можете посмотреть/пометить этот репозиторий, чтобы вернуться к нему. Любые вопросы можете присылать на мой Telegram-канал <b>Telegram channel <a href="https://t.me/+GRwMQo4dWPdmOTMy" Лохматый разработчик</a></b>
 </div> 
 
 
