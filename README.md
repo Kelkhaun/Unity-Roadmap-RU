@@ -19,7 +19,7 @@
 
 На начальном этапе этого будет достаточно, чтобы делать игры.
 </div> 
-	![RoadMap - Russian With Description](https://github.com/Kelkhaun/Unity-Roadmap-RU/assets/80789057/6a0b8e6b-7155-44df-a5c0-a662287e3fb5)
+	![RoadMap - Russian With Description](https://github.com/Kelkhaun/Unity-Roadmap-RU/assets/80789057/ac4ef933-7ae8-47b4-aa3c-56256a82c4f6)
 </div>
 
 ---
